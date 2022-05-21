@@ -53,3 +53,8 @@ If you use signs for your players to join you can place them however you want bu
 ## Future updates (maybe)
 
 In future i might add big change so that plugin spawn npc instead of mob so it can use real valorant skins but i will see what will i do about that idea!
+
+
+## Note 
+
+Compiled .jar file for your server is located in target folder and you can use Shooty-1.0.jar
