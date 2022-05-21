@@ -1,0 +1,20 @@
+name: Shooty
+version: '${project.version}'
+main: gay.charon.shooty.Shooty
+api-version: 1.18
+authors: [ charon ]
+description: Minigame for learning to aim better with bow!
+website: charon.gay
+commands:
+  asetborder:
+    description: Set border for your spawn place
+  asetspawn:
+    description: Set spawn for your arena for players to spawn
+  aspawn:
+    description: Go to arena spawn
+  ajoin:
+    description: Join arena to fight with enemies
+  abow:
+    description: Get yourself a bow so you can kill those enemies
+  aammo:
+    description: You can't shoot enemies withot ammo you dummy
